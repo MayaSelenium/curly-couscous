@@ -53,7 +53,7 @@ body {
 	.name {
 		text-align: center;
 		font-size: 2.8em;
-		color: gainsboro;
+		color: rgb(238, 236, 236);
 		margin-top: 15%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -127,7 +127,7 @@ body {
 		padding-left: 4px;
 		text-align: center;
 		font-size: 2.5em;
-		color: gainsboro;
+		color: rgb(243, 235, 235);
 		margin-top: 16%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -168,7 +168,7 @@ body {
 	hr {
 		width: 93%;
 		height: 2px;
-		background-color: gainsboro;
+		background-color: rgb(135, 132, 132);
 		border: 0px;
 	}
 	.card {
@@ -185,7 +185,7 @@ body {
 		box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 1);
 	}
 	img {
-		border: 15px solid white;
+		border: 15px solid rgb(222, 205, 205);
 		margin-bottom: -15% !important;
 		border-radius: 50%;
 		width: 25%;
@@ -195,7 +195,7 @@ body {
 		padding-left: 4px;
 		text-align: center;
 		font-size: 2.8em;
-		color: gainsboro;
+		color: rgb(252, 248, 248);
 		margin-top: 16%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -203,7 +203,7 @@ body {
 	.subtitle {
 		text-align: center;
 		font-size: 1.9em;
-		color: darkgray;
+		color: rgb(171, 171, 171);
 	}
 	.icons {
 		font-size: 18px;
@@ -215,7 +215,7 @@ body {
 	}
 	.location {
 		text-align: center;
-		color: white;
+		color: rgb(232, 223, 223);
 		font-size: 1.5em;
 		display: block;
 		background-color: rgba(175,133,255,1);
@@ -236,7 +236,7 @@ body {
 	hr {
 		width: 93%;
 		height: 2px;
-		background-color: gainsboro;
+		background-color: rgb(243, 239, 239);
 		border: 0px;
 	}
 	.card {
@@ -261,7 +261,7 @@ body {
 	.name {
 		text-align: center;
 		font-size: 2.5em;
-		color: gainsboro;
+		color: rgba(175,133,255,1);
 		margin-top: 16%;
 		margin-bottom: auto;
 		text-transform: capitalize;
