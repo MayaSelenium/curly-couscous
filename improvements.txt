@@ -2,9 +2,26 @@
 
 Файл index.html.
 1. Заменен аватар
-2. ...
-3. ...
-...
+2. Заменен фавикон
+3. Ошибки в style.css:
+название Основные инструменты было блеклым по цвету
+.name {
+		text-align: center;
+		font-size: 2.5em;
+		color: rgb(229, 221, 221);
+		margin-top: 16%;
+		margin-bottom: auto;
+		text-transform: capitalize;, а должно быть
+.name {
+		text-align: center;
+		font-size: 2.5em;
+		color: rgba(175,133,255,1);
+		margin-top: 16%;
+		margin-bottom: auto;
+		text-transform: capitalize;
+4. лишние команды в коде <p> <br>
+         </p>
+
 
 Файл cmd.html.
 1. ...
