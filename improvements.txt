@@ -21,6 +21,11 @@
 		text-transform: capitalize;
 4. лишние команды в коде <p> <br>
          </p>
+5. в @media screen and (min-width: 1001px)  в color поменять цыет
+		 .name {
+		text-align: center;
+		font-size: 2.8em;
+		color:rgba(175,133,255,1);
 
 
 Файл cmd.html.
