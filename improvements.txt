@@ -1,9 +1,8 @@
 При выполнении работы были внесены следующие улучшения
 
 Файл index.html.
-1. Заменен аватар
-2. Заменен фавикон
-3. Ошибки в style.css:
+1. Заменен фавикон
+2. Ошибки в style.css:
 название Основные инструменты было блеклым по цвету
 .name {
 		text-align: center;
@@ -19,13 +18,22 @@
 		margin-top: 16%;
 		margin-bottom: auto;
 		text-transform: capitalize;
-4. лишние команды в коде <p> <br>
+3. лишние команды в коде <p> <br>
          </p>
-5. в @media screen and (min-width: 1001px)  в color поменять цыет
+4. в css/style.css 
+ в @media screen and (min-width: 1001px)  в color поменять цвет
+		 
 		 .name {
 		text-align: center;
 		font-size: 2.8em;
+
 		color:rgba(175,133,255,1);
+
+		 
+.subtitle {
+		text-align: center;
+		font-size: 1.5em;
+		color: rgba(175,133,255,1);
 
 
 Файл cmd.html.
@@ -35,13 +43,14 @@
 ...
 
 Файл mac.html.
-1. ...
+1.
+
 2. ...
 3. ...
 ...
 
 Файл git.html
-1. ...
+1.
 2. ...
 3. ...
 ...
